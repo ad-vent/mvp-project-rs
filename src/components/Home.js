@@ -9,7 +9,7 @@ export default function Home() {
         HOME FEED GOES HERE.
       </Text>
     </View>
-  )
+  );
 };
 
 const styles = StyleSheet.create({

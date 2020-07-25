@@ -25,7 +25,7 @@ export default function Welcome({ navigation }) {
       </Text>
       <StartButton title="start" onPress={pressHandler} />
     </View>
-  )
+  );
 };
 
 const styles = StyleSheet.create({
